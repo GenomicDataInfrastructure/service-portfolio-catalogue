@@ -12,7 +12,7 @@ As each country may have one or more node(s) providing services listed in the ca
 
 Where a node choses to utilise Google docs for the service catalogue / portfolio, a default link has been provided [here](https://drive.google.com/drive/u/0/folders/1hUip36pfwKTUEbszoeuw13wtB1dwH5fW) for the core GDI WP4 / T4.2 directory for node documents. (03 - Pillars/WPs >  Pillar II > WP04 > T4.2 - European Operations > MS documents). It is suggested that a country creates their own specific folder for the documents associated with the service catalogue / portfolio, and the node maintains their catalogue / portfolio within this folder. The default link provided above should then be updated to ensure that the service catalogue / protfolio for each country can be found from the comuntry specific repository. 
 
-##Links:
+## Links:
 
 Pillar II [presentation](https://docs.google.com/presentation/d/17JS1vExBNb6QV-i7VR04Puqzju3T1JMo/edit?slide=id.p62#slide=id.p62) on July 4th
 
