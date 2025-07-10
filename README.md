@@ -10,8 +10,8 @@ NB: Documents contained within the GDI workspace are only accessible to GDI part
 
 Links:
 
-WP4 presentation on [service catalogues / portfolios] (https://docs.google.com/presentation/d/1VpjCr5JJcXFsjltU7MbpHetbYqChrrNn/edit?slide=id.p1#slide=id.p1)
+WP4 presentation on [service catalogues / portfolios](https://docs.google.com/presentation/d/1VpjCr5JJcXFsjltU7MbpHetbYqChrrNn/edit?slide=id.p1#slide=id.p1)
 
-WP4 T4.2/T4.3 Workshop [materials] (https://drive.google.com/drive/u/0/folders/1HDroknMQiLLCOI2vpJvUivFlYD9g5Nmp)
+WP4 T4.2/T4.3 Workshop [materials](https://drive.google.com/drive/u/0/folders/1HDroknMQiLLCOI2vpJvUivFlYD9g5Nmp)
 
-FitSM [website] (https://www.fitsm.eu/fitsm-standard/)
+FitSM [website](https://www.fitsm.eu/fitsm-standard/)
